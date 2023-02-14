@@ -132,12 +132,12 @@ main > h2 {
     text-indent: 8px;
 }
 
-main > img {
+main img {
     width: 100%;
 }
 
 img.bugdroid {
-    max-width: 350px;
+    max-width: 280px;
     display: block;
     margin: auto;
 }
